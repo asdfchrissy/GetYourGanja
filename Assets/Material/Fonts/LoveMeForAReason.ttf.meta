@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 50fc166393ecaf447be4aa1c50fc8734
+timeCreated: 1514906360
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Love Me For A Reason
+  fontNames:
+  - Love Me For A Reason
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

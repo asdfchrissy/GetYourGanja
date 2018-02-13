@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Level/ANFANGSVIDEO.unity
+    guid: 55aeacb1438b0454ba1f58ebb3e4fdaf
+  - enabled: 1
+    path: "Assets/Level/Hauptmen\xFC (fertig).unity"
+    guid: 59c649699562b1846b64bb045ff97bff
+  - enabled: 1
+    path: Assets/Level/Justicia Stage 1 (Prolog).unity
+    guid: 0d860f541aabb7a4ea3241f664e8f53b
+  - enabled: 1
+    path: Assets/Level/Justicia Stage 2 (Gesetzbuch-Dialog).unity
+    guid: c1cdc5ad2129c394690323ae5ec965fe
+  - enabled: 1
+    path: Assets/Level/Justicia Stage 2 (Gesetzbuch).unity
+    guid: b5aaa4967d4c42d43b61d68c828b2661
+  - enabled: 1
+    path: Assets/Level/Justsia Stage 3 (Schwert-Dialog).unity
+    guid: 6fecb5024ee17744fba7821088a57381
+  - enabled: 1
+    path: Assets/Level/Justicia Stage 3 (Schwert).unity
+    guid: a688296fb98d9b343a53e1894e617202
+  - enabled: 1
+    path: Assets/Level/Justicia Stage 4 (Polizei-Dialog).unity
+    guid: 0229232df4ac4fd48b86a672cb37c0f8
+  - enabled: 1
+    path: Assets/Level/Justicia Stage 4 (Polizei).unity
+    guid: f220391b8e2496446bf7392f27cdb0c8
+  - enabled: 1
+    path: Assets/Level/Justicia Stage 5 (Epilog).unity
+    guid: c6c7bc19db9fd2d47976282af65bab75
+  - enabled: 1
+    path: Assets/Level/Level 1 (Prolog-Zuhause).unity
+    guid: 6cc148f7ec2130743bc4aa63e3ee385f
+  - enabled: 1
+    path: Assets/Level/Level 2 (Schule-Dialog).unity
+    guid: c96902962c8dc0143a6f98781885a040
+  - enabled: 1
+    path: Assets/Level/Level 2 (Schule).unity
+    guid: 62185424be0e0d64482c8d6c138d8e11
+  - enabled: 1
+    path: Assets/Level/Level 3 (Demo-Dialog).unity
+    guid: 68f897d28c2096f4c87193117ed21c3a
+  - enabled: 1
+    path: Assets/Level/Level 3 (Demo).unity
+    guid: 159abc5d142ad784195c61b8ea88e2b9
+  - enabled: 1
+    path: Assets/Level/Level 3 (Heiligenbegegnug).unity
+    guid: d65f0ebc055d7a84cb5fb240864fd9b8
+  - enabled: 1
+    path: Assets/Level/Zwischenscrene.unity
+    guid: 42db5e47eece3794eb6d81a732b0f336
+  - enabled: 1
+    path: Assets/Level/Vor Zuhause.unity
+    guid: 41b9fd5bb46bfd54d8dcac49734191eb
+  - enabled: 1
+    path: Assets/Level/FUNK OUTTA HERE.unity
+    guid: 5cc5452783cd2b4419f274d0d9fdac15
+  - enabled: 1
+    path: Assets/Level/VorDemoZSQ.unity
+    guid: 6c3754f4ce9755641af83afe9498f0f7
+  - enabled: 1
+    path: Assets/Level/TestZeischensequenz.unity
+    guid: 9ede8007a0364c9499fd610c0fa54244
+  - enabled: 1
+    path: Assets/Level/ZSQ vor Zuhause.unity
+    guid: a42aab339ad7f3346b8357f8bbc3b2be
+  - enabled: 1
+    path: Assets/Level/Tutorial 2.0.unity
+    guid: 5a114dc6be4ca4447a60e87720dda077
+  - enabled: 1
+    path: Assets/Level/ZSQ nach Tutorial.unity
+    guid: 2761a420bba071342882d87f7accd1db

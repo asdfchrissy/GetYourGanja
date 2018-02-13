@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: dd0b00abd0b688045a65a680c444990c
+timeCreated: 1514906478
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mf Hello Heartache
+  fontNames:
+  - Mf Hello Heartache
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

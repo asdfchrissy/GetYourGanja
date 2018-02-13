@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Level/Justicia Stage 5 (Epilog).unity
+  isLoaded: 1
+  isActive: 1
